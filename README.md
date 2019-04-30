@@ -1,6 +1,6 @@
 ## NOTES for CSS ANIMATION
 
-# 1. ' transition-property '
+### 1. ' transition-property '
     - to create simple animation or movement we basically changing a state of something to another in time.
     - we call this a transition.
     - in CSS we create animation using a transition properties to describe the change and behaviour.
